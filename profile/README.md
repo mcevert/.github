@@ -3,8 +3,8 @@
   <br />
   <h1>McEvert 🍔</h1>
   <br />
-  <br />
   <strong>Empowering McDonald's Managers with Seamless Training Planning for Exceptional Crew Performance.</strong>
+  <br />
   <br />
   <br />
   <p>
